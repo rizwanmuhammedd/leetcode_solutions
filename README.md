@@ -18,9 +18,14 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
