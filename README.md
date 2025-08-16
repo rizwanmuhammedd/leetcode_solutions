@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
