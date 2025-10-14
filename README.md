@@ -28,6 +28,7 @@
 | [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
 |  |
 | ------- |
