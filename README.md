@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
