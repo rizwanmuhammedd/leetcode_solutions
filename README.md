@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
