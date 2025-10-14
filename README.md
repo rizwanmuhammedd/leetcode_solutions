@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
