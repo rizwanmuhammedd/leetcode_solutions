@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 ## String
@@ -13,12 +14,14 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0742-to-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
 ## Array
@@ -64,4 +67,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
