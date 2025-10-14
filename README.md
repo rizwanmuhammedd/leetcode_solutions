@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0136-single-number) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0136-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
