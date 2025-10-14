@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
