@@ -32,6 +32,7 @@
 | [0035-search-insert-position](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0136-single-number) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
