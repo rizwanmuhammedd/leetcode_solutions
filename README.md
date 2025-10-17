@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0742-to-lower-case) |
+| [0979-di-string-match](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0979-di-string-match) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0136-single-number) |
+| [0979-di-string-match](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0979-di-string-match) |
 | [3311-ant-on-the-boundary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3311-ant-on-the-boundary) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Hash Table
@@ -46,6 +48,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0027-remove-element) |
+| [0979-di-string-match](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0979-di-string-match) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,4 +119,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0979-di-string-match](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0979-di-string-match) |
 <!---LeetCode Topics End-->
