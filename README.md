@@ -9,6 +9,7 @@
 | [0067-add-binary](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0412-fizz-buzz) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |
