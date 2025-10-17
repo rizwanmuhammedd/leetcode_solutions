@@ -19,6 +19,7 @@
 | [0742-to-lower-case](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0742-to-lower-case) |
 | [0822-unique-morse-code-words](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0822-unique-morse-code-words) |
 | [0979-di-string-match](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/0979-di-string-match) |
+| [1205-defanging-an-ip-address](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rizwanmuhammedd/leetcode_solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
